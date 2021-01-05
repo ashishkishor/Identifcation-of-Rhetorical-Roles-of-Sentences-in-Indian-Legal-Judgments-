@@ -20,3 +20,5 @@ This Project consist of 3 models that i have used
 
 Note-For running the code all sentences should be into one text file 
 and for pre-trained Embedding ,download the google-pre-trained Embeddings
+
+Note-Result.csv contains all the sentences.
